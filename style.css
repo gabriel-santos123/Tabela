@@ -1,3 +1,6 @@
 table {
-    border: solid 2px;
+    border: solid 5px;
+}
+td {
+border: solid 5px;
 }
