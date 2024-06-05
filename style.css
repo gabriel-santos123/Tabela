@@ -1,6 +1,22 @@
 table {
     border: solid 5px;
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
 }
 td {
-border: solid 5px;
+border: solid 1px;
+}
+body {
+    background-color: black;
+    font-size: 60px;
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+thead {
+    font size: 55px;
 }
